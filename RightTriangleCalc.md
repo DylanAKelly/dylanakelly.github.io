@@ -11,18 +11,15 @@ Right Triangle Calculator
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program prompts the user for two two non-hypotenuse sides of a right triangle. The program has the user enter these values using the terminal/command line interface. Then the program calculates the length of the hypotenuse. Afterwards, the program prompts the user to change the values for the non-hypotenuse sides of the triangle. After the user enters two more values (which can be the same as the previous values) the program calculates the surface area of the triangle. 
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
+To run the program, ensure that you have Python installed on your computer. Then, download the RightTriangle.py file to your computer. Once the file has downloaded, open your terminal or Command Line Interface and navigate to where the file was downloaded. Finally, type the following into the terminal/CLI. 
 
 ```bash
-cd ./project
-python setup.py
+py RightTriangle.py
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
