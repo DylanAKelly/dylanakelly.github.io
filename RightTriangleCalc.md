@@ -6,7 +6,7 @@ Right Triangle Calculator
 -   **Class:** CSCI 301 Survey of Scripting Languages
 -   **Grade:** B
 -   **Language(s):** Python
--   **Source Code Repository:** [RightTriangle.py](https://github.com/DylanAKelly/CSCI301Program)
+-   **Source Code Repository:** [CSCI301Program](https://github.com/DylanAKelly/CSCI301Program)
     (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
