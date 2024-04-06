@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Right Triangle Calculator | CSCI 301](RightTriangleCalc)
+### [Right Triangle Calculator | CSCI 301](RightTriangleCalc.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Minimum Overlap Coverage | CSCI 315](MinOverlapCoverage)
+### [Minimum Overlap Coverage | CSCI 315](MinOverlapCoverage.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [War Card Game | CSCI 325](WarGame)
+### [War Card Game | CSCI 325](WarGame.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Home Website | CSCI 332](HomePage)
+### [Home Website | CSCI 332](HomePage.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
