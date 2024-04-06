@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** CSCI 325 Object-Oriented Programing
 -   **Grade:** A
 
-### [Copyright, Fair Use, and Computer Science](/pdf/sample_presentation.pdf)
+### [Copyright, Fair Use, and Computer Science](/pdf/CSCI301 Ethics Paper - Dylan Kelly.docx)
 
 -   **Class:** CSCI 301 Survey of Scripting Languages
 -   **Grade:** B
