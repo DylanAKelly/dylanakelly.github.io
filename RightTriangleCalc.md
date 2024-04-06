@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Right Triangle Calculator
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 301 Survey of Scripting Languages
+-   **Grade:** B
+-   **Language(s):** Python
+-   **Source Code Repository:** [RightTriangle.py](https://github.com/DylanAKelly/CSCI301Program)
+    (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
