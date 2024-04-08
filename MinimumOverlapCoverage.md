@@ -15,7 +15,7 @@ The instructions for the project do a much better job at explaining what was req
 
 ## How to compile and run the program
 
-First, download the project3 folder or click the "Release" link found on the right side of the repository and download that file. Then, open your terminal or command line interface and navigate to the pprject 3 folder. Type "make all" in the terminal/CLI and press "enter". Additionally, if you want to try other make commands, look at the makefile and pick one to run. 
+First, download the project3 folder or click the "Release" link found on the right side of the repository and download that file. Then, open your terminal or command line interface and navigate to the "project3" folder. Type "make all" in the terminal/CLI and press "enter". Additionally, if you want to try other make commands, look at the makefile and pick one to run. 
 
 ## UI Design
 
