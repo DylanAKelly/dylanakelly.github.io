@@ -24,16 +24,16 @@ Almost every program requires user interaction, even command-line programs. Incl
 The UI design is fairly crude. This is because the purpose of the website was for us to learn the basics of HTML. The Home Page functions as an About Me page (see Fig 1). The "My Family" contains some information about my family (see Fig 2). The "My Gallery" page has four images which I selected from a webiste (See Fig 3). Finally, the "My Home Videos" page plays a seven second video of a grandfather spending time with his grandchildren (see Fig 4).
 
 ![Home Page](images/HomePageFig1.PNG)  
-Fig 1. The Home Page's home page and "About Me" section.
+**Fig 1. The Home Page's home page and "About Me" section.**
 
 ![My Family](images/HomePageFig2.PNG)  
-Fig 2. The "My Family" page.
+**Fig 2. The "My Family" page.**
 
 ![My Gallery](images/HomePageFig3.PNG)  
-Fig 3. The "My Gallery" page.
+**Fig 3. The "My Gallery" page.**
 
 ![My Home Videos](images/HomePageFig4.PNG)  
-Fig 4. The "My Home Videos" page.
+**Fig 4. The "My Home Videos" page.**
 
 ## 3. Additional Considerations
 
