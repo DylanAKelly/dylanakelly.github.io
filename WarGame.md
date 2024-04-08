@@ -7,7 +7,7 @@ War Game
 -   **Grade:** B
 -   **Language(s):** Java
 -   **Source Code Repository:** [CSCI325WarGame](https://github.com/DylanAKelly/CSCI325WarGame)  
-   (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
+  (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
