@@ -11,7 +11,7 @@ War Game
 
 ## Project description
 
-AS the title suggests, this program simulates the card game War. The program allows the user to play a game of War against a "computer". There is a "Rules" button that displays the rules for anyone not familiar with the game, a "Start New Game?" button, used to start a new game, and the "Flip!" button which triggers the next round of War. 
+As the title suggests, this program simulates the card game War. The program allows the user to play a game of War against a "computer". There is a "Rules" button that displays the rules for anyone not familiar with the game, a "Start New Game?" button, used to start a new game, and the "Flip!" button which triggers the next round of War. 
 
 ## How to compile and run the program
 
