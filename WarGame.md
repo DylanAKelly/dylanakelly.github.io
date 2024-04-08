@@ -44,4 +44,5 @@ The UI was a heavy focus of the project, as it allowed us to put what we learned
 
 ## 3. Additional Considerations
 This was the final project for the course, so everything we had learned in class was applied to the construction of this project. This was a group project. The UI for the game had color at one point, but no longer does. I have not succeeded in determining why the UI is now gray (Truly a shame, I preferred how it looked with color).
+
 [Back to Portfolio](./)
