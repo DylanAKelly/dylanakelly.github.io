@@ -11,7 +11,7 @@ Minimum Overlap Coverage
 
 ## Project description
 
-The instructions for the project do a much better job at explaining what was required than I could ever hope to, so [here](https://github.com/DylanAKelly/CSCI315Project/blob/main/project3/project3.pdf) is a link to the instructions. 
+The instructions for the project do a much better job at explaining what was required than I could ever hope to, so [here](https://github.com/DylanAKelly/CSCI315Project3Instructions/blob/main/project3.pdf) is a link to the instructions. 
 
 ## How to compile and run the program
 
