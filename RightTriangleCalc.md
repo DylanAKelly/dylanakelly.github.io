@@ -7,7 +7,7 @@ Right Triangle Calculator
 -   **Grade:** A
 -   **Language(s):** Python
 -   **Source Code Repository:** [CSCI301Program](https://github.com/DylanAKelly/CSCI301Program)
-  lease [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
+  (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
