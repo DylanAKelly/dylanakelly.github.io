@@ -33,9 +33,10 @@ The UI design is fairly crude. This is because the purpose of the website was fo
 **Fig 3. The "My Gallery" page.**
 
 ![My Home Videos](images/HomePageFig4.PNG)  
-**Fig 4. The "My Home Videos" page.**
+**Fig 4. The "My Home Videos" page.** 
 
 ## 3. Additional Considerations
 
 The Home Page project served to familiarize us with HTML and allowed us to create our very own (rudimentary) website.
+
 [Back to Portfolio](./)
