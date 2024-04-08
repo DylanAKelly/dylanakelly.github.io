@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Right Triangle Calculator | CSCI 301](RightTriangleCalc.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Right Triangle Calculator](images/RightTriFig1.PNG)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](MinimumOverlapCoverage.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Minimum Overlap Coverage](images/MinOverFig1.PNG)
 
 ---
 ### [War Card Game | CSCI 325](WarGame.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![War Card Game](images/WarGameFig1.jpg)
 
 ---
 ### [Home Website | CSCI 332](HomePage.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Home Page](images/HomePageFig1.jpg)
 
 ---
 
