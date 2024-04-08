@@ -23,18 +23,13 @@ py RightTriangle.py
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The Right Triangle Calculator has a very basic design, simply being a command line program.
 
 The Right Triangle Calculator allows a user to input two integer for the non-hypotenuse sides of a right triangle. The program then returns the length of the hypotenuse, and prompts the user to enter two more integers for the non-hypotenuse sides of a right triangle. Once the user inputs two more integers, the program returns the surface area of the triangle (see Fig 1).
 
 ![screenshot](images/RightTriFig1.PNG)  
 Fig 1. The Right Triangle Calculator
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
