@@ -1,48 +1,47 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+War Game
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 325 Object-Oriented Programming
+-   **Grade:** B
+-   **Language(s):** Java
+-   **Source Code Repository:** [CSCI325WarGame](https://github.com/DylanAKelly/CSCI325WarGame)  
+    (Please [email me](mailto:dakelly@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+AS the title suggests, this program simulates the card game War. The program allows the user to play a game of War against a "computer". There is a "Rules" button that displays the rules for anyone not familiar with the game, a "Start New Game?" button, used to start a new game, and the "Flip!" button which triggers the next round of War. 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+To compile an run this program, first download all files in the repository (and put them in one folder) or click the "Release" link located on the roght side of the repository and download the project folder. Once you have downloaded the files, make sure you have Java installed on your computer. Once Java is installed, open your terminal/CLI and navigate to the folder that contains the program files and type:
 
 ```bash
-cd ./project
-python setup.py
+javac WarGameGUI.java
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+into the terminal. Then, type:
+```bash
+java WarGameGUI.java
+```
+into the terminal and hit enter. The War Game should now be running on your computer. 
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The UI was a heavy focus of the project, as it allowed us to put what we learned in class to use. The UI had three buttons. The first was a "Rules" button that displayed the rules of War to the user (see Fig 1). The second was the "Start New Game?" button, which allowed the user to start the game of War. The third was the "Flip!" button, which triggered the next round of War when pressed (see Fig 2). Just like the physical card game, ties resulted in War! and forced a tie-breaker. Each player would put x cards face down, and then flip the x at the same time. The larger-valued card would win the tie-breaker (see Figs 3 & 4).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![Rules](images/WarGameFig1.PNG)  
+**Fig 1. The Rules of the Game.**
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Flip](images/WarGameFig2.PNG)  
+**Fig 2. A simulated round.**
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![War!](images/WarGameFig3.PNG)  
+**Fig 3. A tie.**
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![War! Winner](images/WarGameFig4.PNG)  
+**Fig 4. Tie-breaker results.**
 
 ## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+This was the final project for the course, so everything we had learned in class was applied to the construction of this project. This was a group project. The UI for the game had color at one point, but no longer does. I have not succeeded in determining why the UI is now gray (Truly a shame, I preferred how it looked with color).
 [Back to Portfolio](./)
