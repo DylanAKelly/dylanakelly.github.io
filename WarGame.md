@@ -28,7 +28,7 @@ into the terminal and hit enter. The War Game should now be running on your comp
 
 ## UI Design
 
-The UI was a heavy focus of the project, as it allowed us to put what we learned in class to use. The UI had three buttons. The first was a "Rules" button that displayed the rules of War to the user (see Fig 1). The second was the "Start New Game?" button, which allowed the user to start the game of War. The third was the "Flip!" button, which triggered the next round of War when pressed (see Fig 2). Just like the physical card game, ties resulted in War! and forced a tie-breaker. Each player would put x cards face down, and then flip the x at the same time. The larger-valued card would win the tie-breaker (see Figs 3 & 4).
+The UI was a heavy focus of the project, as it allowed us to put what we learned in class to use. The UI had three buttons. The first was a "Rules" button that displayed the rules of War to the user (see Fig 1). The second was the "Start New Game?" button, which allowed the user to start the game of War. The third was the "Flip!" button, which triggered the next round of War when pressed (see Fig 2). Just like the physical card game, ties result in War! and force a tie-breaker. Each player puts 2 cards "face down", and then flip the 3rd at the same time. The larger-valued card would win the tie-breaker (see Figs 3 & 4).
 
 ![Rules](images/WarGameFig1.PNG)  
 **Fig 1. The Rules of the Game.**
