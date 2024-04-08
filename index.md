@@ -19,12 +19,12 @@ Programming Projects
 ---
 ### [War Card Game | CSCI 325](WarGame.md)
 
-![War Card Game](images/WarGameFig1.jpg)
+![War Card Game](images/WarGameFig1.PNG)
 
 ---
 ### [Home Website | CSCI 332](HomePage.md)
 
-![Home Page](images/HomePageFig1.jpg)
+![Home Page](images/HomePageFig1.PNG)
 
 ---
 
