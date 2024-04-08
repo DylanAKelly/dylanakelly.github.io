@@ -25,7 +25,7 @@ py RightTriangle.py
 
 The Right Triangle Calculator has a very basic design, simply being a command line program.
 
-The Right Triangle Calculator allows a user to input two integer for the non-hypotenuse sides of a right triangle. The program then returns the length of the hypotenuse, and prompts the user to enter two more integers for the non-hypotenuse sides of a right triangle. Once the user inputs two more integers, the program returns the surface area of the triangle (see Fig 1).
+The Right Triangle Calculator allows a user to input two integer for the non-hypotenuse sides of a right triangle via the command line. The program then returns the length of the hypotenuse to the command line, and prompts the user to enter two more integers into the command line for the non-hypotenuse sides of another right triangle. Once the user inputs two more integers, the program returns the surface area of the triangle (see Fig 1).
 
 ![screenshot](images/RightTriFig1.PNG)  
 Fig 1. The Right Triangle Calculator
