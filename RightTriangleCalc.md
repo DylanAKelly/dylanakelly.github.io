@@ -27,8 +27,8 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 The Right Triangle Calculator allows a user to input two integer for the non-hypotenuse sides of a right triangle. The program then returns the length of the hypotenuse, and prompts the user to enter two more integers for the non-hypotenuse sides of a right triangle. Once the user inputs two more integers, the program returns the surface area of the triangle (see Fig 1).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/RightTriFig1.PNG)  
+Fig 1. The Right Triangle Calculator
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 2. Example output after input is processed.
@@ -38,6 +38,6 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The primary purpose of this program was to increase our familiarity with Python. 
 
 [Back to Portfolio](./)
