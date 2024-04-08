@@ -7,6 +7,7 @@ Minimum Overlap Coverage
 -   **Grade:** C
 -   **Language(s):** C++
 -   **Source Code Repository:** [CSCI315Project](https://github.com/DylanAKelly/CSCI315Project)
+  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
