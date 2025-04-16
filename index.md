@@ -69,6 +69,8 @@ Senior Project Documentation
 
 ### [Senior Project Documentation](/pdf/SeniorProjectDefenseDocumentation-DylanKelly.pdf)
 
+### [Senior Project Presentation](/pdf/SeniorProjectPresentation-DylanKelly.pdf)
+
 ### [Senior Project Ethics Self-Assessment](/pdf/EthicsSelfAssessment-DylanKelly.pdf)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
