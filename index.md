@@ -67,7 +67,7 @@ Presentations
 Senior Project Documentation
 ----------------------------
 
-### [Senior Project Documentation](/pdf/SeniorProjectDefenseDocumentation.pdf)
+### [Senior Project Documentation](/pdf/SeniorProjectDefenseDocumentation-DylanKelly.pdf)
 
 ### [Senior Project Ethics Self-Assessment](/pdf/EthicsSelfAssessment-DylanKelly.pdf)
 
